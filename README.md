@@ -1,17 +1,4 @@
-# Jobify
-
-## Create New Next.js Project
-
-```sh
-npx create-next-app@latest projectName
-```
-
-- choose typescript and eslint
-
-## Assets
-
-- main course repo
-  - nextjs-jobify-app/assets
+How to Create this Site Step by Step. Follow the Read me to successfully to re-create this site. 
 
 ## Libraries
 
