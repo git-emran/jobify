@@ -8,6 +8,7 @@ function Navbar() {
       <div>
         <LinksDropdown />
       </div>
+
       <div className="flex items-center gap-x-4">
         <ThemeToggle />
         <UserButton afterSignOutUrl="/" />

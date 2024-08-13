@@ -1,5 +1,5 @@
 "use client";
-import Logo from "@/assets/images/logo.svg";
+import Logo from "@/assets/logo.svg"
 import links from "@/utils/links";
 import Image from "next/image";
 import Link from "next/link";
@@ -10,7 +10,7 @@ function Sidebar() {
 
   return (
     <aside className="py-4 px-8 bg-muted h-full">
-      <Image src={Logo} alt="logo" className="mx-auto" />
+      <Image src={Logo} alt="logo" className="mx-auto" width="100" height="100" />
       <div className="flex flex-col mt-20 gap-y-4">
         {links.map((link) => {
           return (
