@@ -7,6 +7,7 @@ function Navbar() {
     <nav className="bg-muted py-4 sm:px-16 lg:px-24 px-4 flex items-center justify-between">
       <div>
         <LinksDropdown />
+        <p className="">testing git</p>
       </div>
 
       <div className="flex items-center gap-x-4">
