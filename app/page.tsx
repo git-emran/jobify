@@ -12,7 +12,7 @@ export default function Home() {
       <section className="max-w-6xl mx-auto px-4 sm:px-8 h-screen -mt-20 grid lg:grid-cols-[1fr,400px] items-center">
         <div>
           <h1 className="capitalize text-4xl md:text-7xl font-bold">
-            job <span className="text-primary">tracking</span> app
+            Job <span className="text-primary">tracking</span> application
           </h1>
           <p className="leading-loose max-w-md mt-4 ">
             I am baby wayfarers hoodie next level taiyaki brooklyn cliche blue
